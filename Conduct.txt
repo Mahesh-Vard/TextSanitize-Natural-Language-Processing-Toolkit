@@ -1,0 +1,7 @@
+# Code of Conduct
+
+Be respectful and inclusive. Harassment and discrimination are not tolerated.
+
+If you experience or witness unacceptable behavior, please contact [maintainer@example.com].
+
+This code of conduct is adapted from the [Mahesh Vardhan t](https://github.com/Mahesh-Vardhan/TextSanitize-Natural-Language-Processing-Toolkit/).
